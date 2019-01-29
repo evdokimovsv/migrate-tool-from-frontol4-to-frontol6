@@ -1,0 +1,14 @@
+{
+    "frontol4": {
+        "db_path": "localhost/d:/DB4/MAIN.GDB",
+        "card_type_gc3000": 5,
+        "card_type_gc5000": 6,
+        "counter_type_discount": 1
+    },
+    "frontol6": {
+        "db_path": "192.168.1.233/c:/Atol/DB6/MAIN.GDB",
+        "gift_card_type3000": 1,
+        "gift_card_type5000": 2,
+        "counter_type_discount": 2
+    }
+}
